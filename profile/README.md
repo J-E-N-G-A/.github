@@ -8,7 +8,7 @@
 * 🙌 **Made by with love by a team of developers at UIC, inspired to code for the better of of our community, with their health and dietary restrictions in mind 💖**
 * 🚀 **Continued open source contributions by team members and others as time has gone on, even after the hackathon!**
 
-Curious for more information? Check out our video going over the initial project made during SparkHacks 2024 project [here]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=jxcbZ4fU-_g))
+Curious for more information? Check out our video going over the initial project made during [SparkHacks 2024 project here](https://www.youtube.com/watch?v=jxcbZ4fU-_g)
 
 ## Want to contribute or run this yourself? 
 
