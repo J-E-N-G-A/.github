@@ -12,7 +12,7 @@ Curious for more information? Check out our video going over the initial project
 
 ## Want to contribute or run this yourself? 
 
-- ☑️ [**Check our the project repo to continue!**]
+- ☑️ **Check our the project repo to continue!**
 
 ## Get in touch with the team at JENGA 💬
 
