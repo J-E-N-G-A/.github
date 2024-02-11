@@ -3,27 +3,24 @@
 
 ## What is this org for? 🤔
 
-* ✅ **We are here to help solve [insertproblemhere]**
-* 🔄 **We are doing this by [inserthackathonprojecthere]**
-* 🙌 **Made by with love by a team of developers at UIC, inspired to code for the better of humanity**
-* 🚀 **Continued open source contributions by team members and others as time has gone on**
+* ✅ **We are here to help solve the common problem many people at UIC face whenever it comes to choosing what food they can eat and where around them can serve their food**
+* 🔄 **We are doing this by using Nutrionix's API V2 in order to give the user information on not only the food they eat, but also how their excersize can help imform them better about their caloric needs**
+* 🙌 **Made by with love by a team of developers at UIC, inspired to code for the better of of our community, with their health and dietary restrictions in mind 💖**
+* 🚀 **Continued open source contributions by team members and others as time has gone on, even after the hackathon!**
 
-Curious for more information? Check out our video going over the initial project made during SparkHacks 2024 project [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+Curious for more information? Check out our video going over the initial project made during SparkHacks 2024 project [here]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=jxcbZ4fU-_g))
 
 ## Want to contribute or run this yourself? 
 
-- ☑️ [**Check that you have the pre-requisites downloaded**]()
-	- [pre-req 1]
-- 🖥️ [**Clone this repo with 🤔🤔🤔🤔 TO LAZY TO SET THIS UP RN 🤔🤔🤔🤔**
-- 🧺 Further steps added here
+- ☑️ [**Check our the project repo to continue!**]
 
 ## Get in touch with the team at JENGA 💬
 
-* [Julius Linus]()
+* [Julius Linus](https://www.linkedin.com/in/julius-linus/)
 * [Eduardo Morales]()
 * [N]()
-* [Gerard W. Wilbert]()
-* [Anirudh Yallapragada]()
+* [Gerard W. Wilbert](https://www.linkedin.com/in/emswe/)
+* [Anirudh Yallapragada](https://www.linkedin.com/in/anirudh-yallapragada-42a160254/)
 
 
 ## Join the team 👪
