@@ -17,9 +17,9 @@ Curious for more information? Check out our video going over the initial project
 ## Get in touch with the team at JENGA 💬
 
 * [Julius Linus](https://www.linkedin.com/in/julius-linus/)
-* [Eduardo Morales]()
+* [Eduardo Morales](https://www.linkedin.com/in/emswe/)
 * [N]()
-* [Gerard W. Wilbert](https://www.linkedin.com/in/emswe/)
+* [Gerard W. Wilbert]()
 * [Anirudh Yallapragada](https://www.linkedin.com/in/anirudh-yallapragada-42a160254/)
 
 
